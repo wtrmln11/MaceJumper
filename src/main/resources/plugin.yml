@@ -1,0 +1,6 @@
+name: MaceBoost
+version: 1.0
+main: com.mace.Main
+api-version: 1.21
+description: Adds a special boost ability to the mace
+author: YourName
